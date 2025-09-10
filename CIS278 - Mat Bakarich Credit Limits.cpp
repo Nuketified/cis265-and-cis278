@@ -19,7 +19,6 @@ using namespace std;// namespace
 
 int main()// main
 {
-    //int keep_going = 0;// sentinel value
     int account_number = 0;// intitalize acct # to 0, this is also the sentinel
     double starting_balance = 0;// initialize balance to 0
     double charges_this_month = 0;// initialize total customer charges this month to 0
@@ -68,6 +67,7 @@ int main()// main
 
     }
 }// end main
+
 
 
 
