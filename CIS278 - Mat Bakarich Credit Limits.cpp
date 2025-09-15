@@ -66,9 +66,10 @@ int main()// main
 
 
     }
+
+    printf("\n\nmbakarich1@mail.pima.edu\n");// print my e-mail in console
+
 }// end main
-
-
 
 
 
